@@ -7,7 +7,7 @@
 - 📫 How to reach me: laura_sviana@hotmail.com
 - 😄 Pronouns: ela/dela
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraSViana&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSViana&hshow_progress=true)]
 
 
