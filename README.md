@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Web-desenvolvimento
+- 🔭 I’m currently working on Web-development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: laura_sviana@hotmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSViana&hshow_progress=true)
